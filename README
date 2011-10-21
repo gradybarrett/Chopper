@@ -1,0 +1,3 @@
+This is a graphics application that draws and animates a basic chopper based on animation control settings for tail/top rotor speeds as well as pitch and heading rotations.
+
+This program can be run by importing the .pro file into QtCreator, building and running. 
